@@ -17,7 +17,7 @@
 | Protocol    | Protocol Type                  | Findings |
 |---------------------------------------|-----------|----------|
 | [Elytra](https://elytra.io/) | HyperEVM LST | [Pending..]()
-| [Euler Finance](https://www.euler.finance/) | Lending | [Pending..]()
+| [EulerEarn](https://www.euler.finance/) | Asset Management | [1M, 3L](https://github.com/pashov/audits/blob/master/team/pdf/EulerEarn-security-review_2025-07-25.pdf)
 | [KittenSwap](https://kittenswap.finance/) | DEX | [1C, 3H, 1M, 6L](https://github.com/pashov/audits/blob/master/team/pdf/KittenSwap-security-review_2025-07-31.pdf)
 
 ## Private audits
