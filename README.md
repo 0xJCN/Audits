@@ -19,6 +19,24 @@
 | [Elytra](https://elytra.io/) | HyperEVM LST | [Pending..]()
 | [EulerEarn](https://www.euler.finance/) | Asset Management | [1M, 3L](https://github.com/pashov/audits/blob/master/team/pdf/EulerEarn-security-review_2025-07-25.pdf)
 | [KittenSwap](https://kittenswap.finance/) | DEX | [1C, 3H, 1M, 6L](https://github.com/pashov/audits/blob/master/team/pdf/KittenSwap-security-review_2025-07-31.pdf)
+| HyperAMM |  | 
+| Opinion |  | 
+| HyperNova |  | 
+| Napier |  | 
+| Napier (2) |  | 
+| RAAC |  | 
+| TokenLogic |  | 
+| RAAC (2) |  | 
+| TokenLogic (2) |  | 
+| DegenDice |  | 
+| Instruxi |  | 
+| HypurrFi |  | 
+| Sofamon |  | 
+| Sekai Finance |  | 
+| Strip |  | 
+| Regnum Aurum |  | 
+| Regnum Aurum (2) |  | 
+| Regnum Aurum (3) |  | 
 
 ## Private audits
 
